@@ -2,9 +2,9 @@
 
 This is a repository of EV3 Misson Program for our **_FIRST_ LEGO LEAGUE** Challenge.
 
-Each participant should create a [github](https://github.com) account. Once the account is created let your Lead Coach/Mentor-1 (Dr. Amit Dongol) know. Lead Coach/Mentor-1 will then send you invitation to collaborate in the repository. Each branch will be created for each participant. Each participant must work only in their respective branch only.
+Each participant should create a [GitHub](https://github.com) account. Once the account is created let your Lead Coach/Mentor-1 (Dr. Amit Dongol) know. Lead Coach/Mentor-1 will then send you invitation to collaborate in the repository. Each branch will be created for each participant. Each participant must work in their respective branch only.
 
-In the Mean time, also download [Fork](https://fork.dev) in your computer. Lead coach will help you set up your fork and github account.
+In the Mean time, also download [Fork](https://fork.dev) in your computer. Lead Coach/Mentor-1 will help you set up your fork and GitHub account.
 
 
 ### Our Team members:
