@@ -1,37 +1,40 @@
 ## Welcome to GitHub Page of Rocking Rover
 
-You can use the [editor on GitHub](https://github.com/amitdongol/RockingRover/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a repository of EV3 Misson Program for our **_FIRST_ LEGO LEAGUE** Challenge.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Each participant should create a [github](https://github.com) account. Once the account is created let your Lead Coach know. Lead Coach will then send you invitation to collaborate in the repository. Each branch will be created for each participant. Each participant must work only in their respective branch only.
 
-### Markdown
+In the Mean time, also download [Fork](https://fork.dev) in your computer. Lead coach will help you set up your fork and github account.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Our Team members:
 
-# Header 1
-## Header 2
-### Header 3
+<table class="image">
+<tr>
+  <td><img src= "Avek.jpg" width="150"></td>
+  <td><img src= " " width="150"></td>
+  <td><img src= " " width="150"></td>
+  <td><img src= " " width="150"></td>
+</tr>
+<tr>
+  <td class="caption" align="center">Avek Dongol</td>
+  <td class="caption" align="center">Aarjit Adhikari</td>
+  <td class="caption" align="center">Nidhi Pokhrel</td>
+  <td class="caption" align="center">Alisha Bandhari</td>
+</tr>
+</table>
+<table>
+<tr>
+  <td><img src= " " width="150"></td>
+  <td><img src= " " width="150"></td>
+  <td><img src= " " width="150"></td>
+  <td><img src= " " width="150"></td>
+</tr>
+<tr>
+  <td class="caption" align="center">Luniva Karmacharya</td>
+  <td class="caption" align="center">Niket Dhakal</td>
+  <td class="caption" align="center">Ian Manandhar</td>
+  <td class="caption" align="center">Prajna Parajuli</td>
+</tr>
+</table>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amitdongol/RockingRover/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
