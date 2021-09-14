@@ -11,10 +11,10 @@ In the Mean time, also download [Fork](https://fork.dev) in your computer. Lead 
 
 <table class="image">
 <tr>
-  <td><img src= "Avek.jpg" width="150"></td>
-  <td><img src= " " width="150"></td>
-  <td><img src= " " width="150"></td>
-  <td><img src= " " width="150"></td>
+  <td><img src= "Avek.jpg" width="150" align="center"></td>
+  <td><img src= " " width="150" align="center"></td>
+  <td><img src= " " width="150" align="center"></td>
+  <td><img src= " " width="150" align="center"></td>
 </tr>
 <tr>
   <td class="caption" align="center">Avek Dongol</td>
@@ -23,10 +23,10 @@ In the Mean time, also download [Fork](https://fork.dev) in your computer. Lead 
   <td class="caption" align="center">Alisha Bandhari</td>
 </tr>
 <tr>
-  <td><img src= "image" width="150"></td>
-  <td><img src= " " width="150"></td>
-  <td><img src= " " width="150"></td>
-  <td><img src= " " width="150"></td>
+  <td><img src= "image" width="150" align="center"></td>
+  <td><img src= " " width="150" align="center"></td>
+  <td><img src= " " width="150" align="center"></td>
+  <td><img src= " " width="150" align="center"></td>
 </tr>
 <tr>
   <td class="caption" align="center">Luniva Karmacharya</td>
