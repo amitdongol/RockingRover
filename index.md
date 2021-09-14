@@ -22,8 +22,6 @@ In the Mean time, also download [Fork](https://fork.dev) in your computer. Lead 
   <td class="caption" align="center">Nidhi Pokhrel</td>
   <td class="caption" align="center">Alisha Bandhari</td>
 </tr>
-</table>
-<table>
 <tr>
   <td><img src= " " width="150"></td>
   <td><img src= " " width="150"></td>
@@ -37,4 +35,3 @@ In the Mean time, also download [Fork](https://fork.dev) in your computer. Lead 
   <td class="caption" align="center">Prajna Parajuli</td>
 </tr>
 </table>
-
